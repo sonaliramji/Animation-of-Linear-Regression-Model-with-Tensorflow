@@ -17,7 +17,7 @@ The corresponding Implementation steps followed are:
 - Using *Mean Square Error* for loss measurement
 - using Gradient Descent Optimizer
 
-## Python Libraries and funcations used include:
+## Python Libraries and functions used include:
 - tensorflow, numpy, math, matplotlib.pyplot, matplotlib.animation, numpy.random, plt.plot, plt.xlabel, plt.ylabel, plt.show
 - [matplotlib.animation](https://matplotlib.org/api/animation_api.html) used for animation of the plot to watch fitting of the line IN ACTION!
 
